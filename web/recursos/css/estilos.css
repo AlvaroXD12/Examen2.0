@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    position: absolute;
+    width: 1520px;
+    height: 600px;
+    background: white;
+}
+#Encabezado{
+    position: absolute;
+    width: 1550px;
+    height: 60px;
+    background: white;
+}
+#cajita{
+    height: 50px;
+    width: 340px;
+    background: black;
+    display: inline-flex;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#estilo{
+    font-family: calibri;
+    padding-left: 10px;
+    color: white;
+    font-weight: normal;
+}
+#cajita1{
+    margin-left: 350px;
+    margin-top: -60px;
+    height: 50px;
+    width: 1146px;
+    background: gray;
+    display: flex;
+    justify-content: right;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+#cajita2{
+    height: 685px;
+    width: 350px;
+    background: gray;
+}
+#cajita3{
+    height: 686px;
+    width: 1186px;
+    background: white;
+    margin-top: -435px;
+    margin-left: 350px;
+}
+
+.estilomenu{
+    font-family: calibri;
+    padding-left: 10px;
+    color: white;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.cajamenu{
+    height: 50px;
+    width: 289px;
+    display: inline-flex;
+    padding-left: 60px;
+    padding-top: 20px;
+    border-bottom: 1px solid white;
+}
+.imagen{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    padding-right: 20px;
+
+}
+.imagen1{
+    height: 20px;
+    width: 30px;
+    padding-top: 5px;
+    padding-right: 20px;
+
+}
+.estilocont{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-family: calibri;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: gray;
+    font-weight: normal;
+    font-size: 16px;
+}
+#subcaja{
+    height: 45px;
+    width: 1080px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.llenar{
+    height: 45px;
+    width: 194px;
+    border: 1px solid black;
+    margin-left: 16px;
+    padding: 30px;
+
+}
+#subcaja1{
+    height: 105px;
+    width: 1102px;
+    margin-top: 20px;
+    margin-left: 24px;
+}
+#subcaja2{
+    height: 170px;
+    width: 1085px;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+#sub{
+    height: 170px;
+    width: 400px;
+    border: 1px solid black;
+}
+#sub1{
+    height: 170px;
+    width: 660px;
+    border: 1px solid black;
+    margin-top: -172px;
+    margin-left: 420px;
+}
+#subcaja3{
+    height: 170px;
+    width: 1085px;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
+#sub2{
+    height: 170px;
+    width: 890px;
+    border: 1px solid black;
+}
+#sub3{
+    height: 170px;
+    width: 170px;
+    border: 1px solid black;
+    margin-top: -172px;
+    margin-left: 910px;
+}
